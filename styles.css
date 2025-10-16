@@ -9,8 +9,10 @@ body {
   justify-content: center;
   align-items: center;
   font-family: sans-serif;
-  background: linear-gradient(90deg, #048ba8, #b3a394 50%, #048ba8);
+  background: linear-gradient(90deg, #666, #444, #404040);
 }
+
+
 
 .body-home {
   margin-top: 15vh;
@@ -81,9 +83,11 @@ li {
 
 a {
   font-size: 2rem;
+  color: #1892A1;
 }
 
 .home {
   margin: 1em;
-  color: blue;
+  color: #1892A1;
+  text-shadow: 0px 0px 4px black;
 }
