@@ -9,7 +9,11 @@ body {
   justify-content: center;
   align-items: center;
   font-family: sans-serif;
-  background: linear-gradient(90deg, #C969BF, #BC43AF 50%, #C969BF);
+  background: linear-gradient(90deg, #048ba8, #b3a394 50%, #048ba8);
+}
+
+.body-home {
+  margin-top: 15vh;
 }
 
 h1 {
